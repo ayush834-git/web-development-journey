@@ -1,0 +1,9 @@
+Day 1 — HTML Basics
+
+1. Created a basic HTML file for a course outline.
+2. Learned about HTML tags and their purposes.
+3. Learned about HTML attributes, including `href`, `src`, `target`, and `alt`.
+4. Debugged a pet page exercise involving image attributes.
+5. Learned about the Boolean attributes `checked` and `disabled` while working with HTML input elements.
+6. Learned that `<img>` is a void element and does not require a closing tag.
+7. Understood the difference between HTML elements and attributes.
